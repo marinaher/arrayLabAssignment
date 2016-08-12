@@ -28,7 +28,7 @@ namespace arrayLabAssignment
         public void CalcuatePercentage()
         {
             slugPercentage = (playerStats[5] / playerStats[4] * 100);
-            Console.WriteLine("Total Slugging percentage (Total Bases divided by At Bats): " + Convert.ToInt32(Convert.ToDouble(slugPercentage)) + "%");
+            Console.WriteLine("Total Slugging percentage: " + Convert.ToInt32(Convert.ToDouble(slugPercentage)) + "%");
             Console.ReadLine();
         }
     }
