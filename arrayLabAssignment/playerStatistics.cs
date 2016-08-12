@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace arrayLabAssignment
 {
-    public class playerStatistics
+    public class PlayerStatistics
     {
         public string[] baseballStatNames;
         public double[] playerStats;
         double slugPercentage;
 
-        public playerStatistics()
+        public PlayerStatistics()
         {
             baseballStatNames = new string[] { "Singles", "Doubles", "Triples", "Home run", "At Bats", "Total Bases" };
             playerStats = new double[6];
         }
-        public void runBaseballStatName()
+        public void RunBaseballStatName()
         {
             for (int i = 0; i < baseballStatNames.Length; i++)
             {

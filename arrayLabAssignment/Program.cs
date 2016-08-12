@@ -10,8 +10,8 @@ namespace arrayLabAssignment
     {
         static void Main(string[] args)
         {
-            playerStatistics playerStat = new playerStatistics();
-            playerStat.runBaseballStatName();
+            PlayerStatistics playerStat = new PlayerStatistics();
+            playerStat.RunBaseballStatName();
             playerStat.CalcuatePercentage();
             Console.ReadLine();
         }
