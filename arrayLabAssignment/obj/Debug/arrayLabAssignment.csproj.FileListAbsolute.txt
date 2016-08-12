@@ -1,0 +1,5 @@
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\arrayLabAssignment\arrayLabAssignment\bin\Debug\arrayLabAssignment.exe.config
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\arrayLabAssignment\arrayLabAssignment\bin\Debug\arrayLabAssignment.exe
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\arrayLabAssignment\arrayLabAssignment\bin\Debug\arrayLabAssignment.pdb
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\arrayLabAssignment\arrayLabAssignment\obj\Debug\arrayLabAssignment.exe
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\arrayLabAssignment\arrayLabAssignment\obj\Debug\arrayLabAssignment.pdb
